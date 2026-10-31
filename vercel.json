@@ -10,8 +10,8 @@
       "framework": "vite"
     },
     "python": {
-      "root": "sdk/python",
-      "runtime": "python/pyproject.toml"
+      "root": "sdk/javascript",
+      "runtime": "javascript"
     }
   },
   "rewrites": [
