@@ -11,7 +11,7 @@
     },
     "python": {
       "root": "sdk/python",
-      "runtime": "python"
+      "runtime": "python/openwa"
     }
   },
   "rewrites": [
