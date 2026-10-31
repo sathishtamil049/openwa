@@ -9,7 +9,7 @@
       "root": "dashboard",
       "framework": "vite"
     },
-    "python": {
+    "javascript": {
       "root": "sdk/javascript",
       "runtime": "javascript"
     }
